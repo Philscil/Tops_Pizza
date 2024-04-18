@@ -1,0 +1,2 @@
+st_gsheets_connection==0.0.4
+streamlit==1.33.0
